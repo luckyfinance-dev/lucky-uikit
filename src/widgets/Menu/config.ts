@@ -99,15 +99,15 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/luckyfinance-dev",
       },
       {
         label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
+        href: "https://lucky-financial.gitbook.io/lucky-financial",
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "https://www.medium.com/@LuckyFinancial",
       },
     ],
   },
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/luckyfinancial",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -156,7 +156,7 @@ export const socials = [
       // },
       // {
       //   label: "日本語",
-      //   href: "https://t.me/pancakeswapjp",
+      //   href: "https://t.me/luckfinancial_jp",
       // },
       // {
       //   label: "Français",
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/goosefinanceann",
+        href: "https://t.me/LuckyFinancialAnnoucements",
       },
       // {
       //   label: "Whale Alert",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/FinanceGoose",
+    href: "https://twitter.com/LuckyFinancial",
   },
 ];
 
