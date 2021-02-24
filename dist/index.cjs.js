@@ -2110,7 +2110,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/goosedefi",
+                href: "https://t.me/LuckyFinancial",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2146,7 +2146,7 @@ var socials = [
             // },
             // {
             //   label: "日本語",
-            //   href: "https://t.me/pancakeswapjp",
+            //   href: "https://t.me/luckfinancial_jp",
             // },
             // {
             //   label: "Français",
@@ -2154,14 +2154,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/goosefinanceann",
+                href: "https://t.me/LuckyFinancialAnnoucements",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FinanceGoose",
+        href: "https://twitter.com/LuckyFinancial",
     },
 ];
 var MENU_HEIGHT = 64;
