@@ -1860,7 +1860,7 @@ var Icon$O = function (props) {
 var Logo = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
     return (React.createElement(Svg, __assign({ viewBox: "0 0 205 26" }, props),
-        React.createElement("image", { width: "205", height: "26", href: isDark ? 'images/gft/LogoTextNewDark.png' : 'images/gft/LogoTextNewWhite.png' })));
+        React.createElement("image", { width: "210", height: "35", href: isDark ? 'images/gft/LogoTextNewDark.png' : 'images/gft/LogoTextNewWhite.png' })));
 };
 
 var Icon$P = function (props) {
