@@ -2015,9 +2015,9 @@ var links = [
         href: "/farms",
     },
     {
-        label: "Pools",
+        label: "Fortunes",
         icon: "PoolIcon",
-        href: "/syrup",
+        href: "/fortunes",
     },
     {
         label: "Lottery",
